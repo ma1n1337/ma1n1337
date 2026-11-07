@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "login": "ma1n1337",
+  "seed": "#AA856C",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons",
+    "streak",
+    "stats"
+  ],
+  "hero": {
+    "greeting": "Hello! I am",
+    "name": "main1337",
+    "subtitle": "",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      },
+      {
+        "icon": "code",
+        "label": "Java · Python"
+      },
+      {
+        "icon": "star",
+        "label": "New"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "ui/ux designer"
+      },
+      {
+        "icon": "code",
+        "label": "developer"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/yandexclicker"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
